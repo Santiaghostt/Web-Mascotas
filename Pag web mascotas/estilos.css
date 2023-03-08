@@ -1,0 +1,64 @@
+@font-face {
+    font-family: holyfat;
+    src: url(./tipografias/Holyfat.ttf);
+}
+
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    background-image: url(./images/fondo1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.menu {
+    font-size: 24px;
+    font-family: holyfat;
+    padding: 0 2rem;
+    margin-left: 3rem;
+    text-align: center;
+}
+
+.letraG {
+    font-size: 40px;
+    color: #00db00;
+}
+
+.color-verde {
+    color: #00db00;
+}
+
+.bg-verde {
+    background-color: #00db00;
+}
+
+.holyfatG {
+    font-family: holyfat;
+    color: #00db00;
+}
+
+.letraHoly {
+    font-family: holyfat;
+    color: #00db00;
+    text-align: center;
+}
+.btn-bg-color-verde {
+    background-color: #00db00;
+    width: 200px;
+    height: 80px;
+    border-radius: 100%;
+    font-size: 40px;
+    font-family: holyfat;
+    align-content: center;
+}
+
+.color-azul {
+    color: #00c8de;
+}
+
+.container-fluid {
+    padding: 0 5rem;
+}
